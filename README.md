@@ -2,7 +2,7 @@
 
 ## File in resource folder : data.txt
 
-
+```java
 package com.cozla;
 
 import java.io.File;
@@ -30,3 +30,4 @@ public class Runner {
     }
 
 }
+```
